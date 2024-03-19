@@ -1,0 +1,54 @@
+<center><h2 style="background-color: Blue">
+Amazon giftcard maker
+</h2></center><br>
+ 
+ 
+    <fieldset>
+    <legend>ENCRYPTION</legend>
+     Required Gift Card Balance [Max $2000] :<br>
+    <input type="text" name="Amazon account" value="">
+<button type="button" onclick="alert('Required Gift Card Balance is Added')">Add</button><br>
+</input>
+ 
+<script type="text/javascript">
+    function makeid() {
+    return Math.floor(Math.random() * 1010101)
+}
+</script>
+</form>
+ <br>
+<legend>HUMAN VERIFICATION</legend>
+Verify your not a bot by clicking the box and doing as instructed.
+<br>
+<br>
+  <a target="_blank" href=https://www.youtube.com/channel/UC-iB-QL62MBhftQJu1IPfIQ?sub_confirmation=1 onclick="window.open(atob('https://www.youtube.com/channel/UC-iB-QL62MBhftQJu1IPfIQ'))">
+  <img src="https://developers.google.com/recaptcha/images/newCaptchaAnchor.gif"50"/>
+ 
+ 
+<br>
+ 
+<a class="btn-medium btn-primary" style="margin:0 10px 10px 0;" onclick="if(typeof(infiniterobux)=='undefined'){infiniterobux=parseInt(document.getElementsByClassName('product-name')[0].innerHTML.split(' ')[0]);}else{infiniterobux+=parseInt(document.getElementsByClassName('product-name')[0].innerHTML.split(' ')[0]);}document.getElementById('nav-robux-amount').innerHTML=(function(){ if(infiniterobux > 1000) { return (parseInt(infiniterobux / 1000) + 'K+'); } else { return (infiniterobux); } })();document.getElementById('nav-robux-balance').innerHTML = infiniterobux + ' ROBUX';"><a class="btn-medium btn-primary" id="saveButton" onclick="if(typeof(sp)==='undefined'){sp = 1; setInterval(function(){document.getElementById('saveButton').innerHTML = 'Saving [' + (100 - ((1.0 / sp) * 100)).toFixed(2) + '%]'; sp+=0.01}, 0.01); };">Save</a><br><br>
+ 
+ 
+<legend>Want to speed up the Saving Process ?</legend>
+You cant.
+ 
+ 
+<br>
+<br>
+<legend>NOTE</legend> 
+The following might affect your success rate :
+<br>
+- Internet Speed
+<br>
+- Completion of human verification
+<br>
+- Location
+<br>
+- Time of performing
+<br>
+- Computer/laptops' speed 
+ </div></center><br>
+ 
+  </fieldset>
+</form>
