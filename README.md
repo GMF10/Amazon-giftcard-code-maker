@@ -1,1 +1,3 @@
 # Amazon-giftcard-code-maker
+coppy and inspect 
+Once applied to your Amazon account, the entire gift card amount will be added to your gift card balance. Your gift card balance, including Amazon Reload, does not expire and can’t be transferred to other accounts, used to buy other gift cards, or, as except as required by law, redeemed for cash. If you recently paid for part of a purchase using a Gift Card, and that item has not yet shipped, then any new funds added to your Gift Card balance up to the full purchase amount will be applied to that order once it’s shipped. Review terms and conditions. amd adit as html. and put the code into there. look at the screen shots
